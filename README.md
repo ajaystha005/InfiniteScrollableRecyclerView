@@ -1,9 +1,7 @@
 # InfiniteScrollableRecyclerView
-Infinite Scrollable RecyclerView. Make recycerview infinte scrollable with threshold valu
+Infinite Scrollable RecyclerView. Make recycerview infinte scrollable with threshold value
 
 
-e
-d
    
     protected void onFetchMoreItem(int currentPage); //This method fires when threshold value reached
    
